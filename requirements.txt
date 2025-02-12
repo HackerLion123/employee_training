@@ -1,0 +1,14 @@
+langchain
+langchain_chroma
+langchain_ollama
+langchain-community
+langgraph
+chromadb
+pandas
+numpy
+streamlit
+deepeval
+pymupdf
+python-docx
+python-dotenv
+flashrank

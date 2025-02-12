@@ -1,0 +1,201 @@
+store_id,store_name,product_id,product_name,location,last_updated
+S001,New York Flagship,P001,Classic T-Shirt,a301,2025-01-20
+S001,New York Flagship,P002,Denim Jeans,a301,2025-01-20
+S001,New York Flagship,P003,Leather Jacket,a301,2025-01-20
+S001,New York Flagship,P004,Sneakers,a301,2025-01-20
+S001,New York Flagship,P005,Baseball Cap,a301,2025-01-20
+S001,New York Flagship,P006,Sunglasses,a305,2025-01-20
+S001,New York Flagship,P007,Running Shorts,a305,2025-01-20
+S001,New York Flagship,P008,Wool Scarf,a305,2025-01-20
+S001,New York Flagship,P009,Formal Dress Shirt,a305,2025-01-20
+S001,New York Flagship,P010,Casual Hoodie,a305,2025-01-20
+S001,New York Flagship,P011,Cotton Socks,b567,2025-01-20
+S001,New York Flagship,P012,Hiking Boots,b567,2025-01-20
+S001,New York Flagship,P013,Sports Jersey,b567,2025-01-20
+S001,New York Flagship,P014,Summer Sandals,b567,2025-01-20
+S001,New York Flagship,P015,Waterproof Jacket,b567,2025-01-20
+S001,New York Flagship,P016,Slippers,c556,2025-01-20
+S001,New York Flagship,P017,Cargo Pants,c556,2025-01-20
+S001,New York Flagship,P018,Beanie Hat,c556,2025-01-20
+S001,New York Flagship,P019,Yoga Pants,c556,2025-01-20
+S001,New York Flagship,P020,Swimsuit,c556,2025-01-20
+S002,Los Angeles West,P001,Classic T-Shirt,a301,2025-01-20
+S002,Los Angeles West,P002,Denim Jeans,a301,2025-01-20
+S002,Los Angeles West,P003,Leather Jacket,a301,2025-01-20
+S002,Los Angeles West,P004,Sneakers,a301,2025-01-20
+S002,Los Angeles West,P005,Baseball Cap,a301,2025-01-20
+S002,Los Angeles West,P006,Sunglasses,a305,2025-01-20
+S002,Los Angeles West,P007,Running Shorts,a305,2025-01-20
+S002,Los Angeles West,P008,Wool Scarf,a305,2025-01-20
+S002,Los Angeles West,P009,Formal Dress Shirt,a305,2025-01-20
+S002,Los Angeles West,P010,Casual Hoodie,a305,2025-01-20
+S002,Los Angeles West,P011,Cotton Socks,b567,2025-01-20
+S002,Los Angeles West,P012,Hiking Boots,b567,2025-01-20
+S002,Los Angeles West,P013,Sports Jersey,b567,2025-01-20
+S002,Los Angeles West,P014,Summer Sandals,b567,2025-01-20
+S002,Los Angeles West,P015,Waterproof Jacket,b567,2025-01-20
+S002,Los Angeles West,P016,Slippers,c556,2025-01-20
+S002,Los Angeles West,P017,Cargo Pants,c556,2025-01-20
+S002,Los Angeles West,P018,Beanie Hat,c556,2025-01-20
+S002,Los Angeles West,P019,Yoga Pants,c556,2025-01-20
+S002,Los Angeles West,P020,Swimsuit,c556,2025-01-20
+S003,Chicago Central,P001,Classic T-Shirt,a301,2025-01-20
+S003,Chicago Central,P002,Denim Jeans,a301,2025-01-20
+S003,Chicago Central,P003,Leather Jacket,a301,2025-01-20
+S003,Chicago Central,P004,Sneakers,a301,2025-01-20
+S003,Chicago Central,P005,Baseball Cap,a301,2025-01-20
+S003,Chicago Central,P006,Sunglasses,a305,2025-01-20
+S003,Chicago Central,P007,Running Shorts,a305,2025-01-20
+S003,Chicago Central,P008,Wool Scarf,a305,2025-01-20
+S003,Chicago Central,P009,Formal Dress Shirt,a305,2025-01-20
+S003,Chicago Central,P010,Casual Hoodie,a305,2025-01-20
+S003,Chicago Central,P011,Cotton Socks,b567,2025-01-20
+S003,Chicago Central,P012,Hiking Boots,b567,2025-01-20
+S003,Chicago Central,P013,Sports Jersey,b567,2025-01-20
+S003,Chicago Central,P014,Summer Sandals,b567,2025-01-20
+S003,Chicago Central,P015,Waterproof Jacket,b567,2025-01-20
+S003,Chicago Central,P016,Slippers,c556,2025-01-20
+S003,Chicago Central,P017,Cargo Pants,c556,2025-01-20
+S003,Chicago Central,P018,Beanie Hat,c556,2025-01-20
+S003,Chicago Central,P019,Yoga Pants,c556,2025-01-20
+S003,Chicago Central,P020,Swimsuit,c556,2025-01-20
+S004,Houston Main,P001,Classic T-Shirt,a301,2025-01-20
+S004,Houston Main,P002,Denim Jeans,a301,2025-01-20
+S004,Houston Main,P003,Leather Jacket,a301,2025-01-20
+S004,Houston Main,P004,Sneakers,a301,2025-01-20
+S004,Houston Main,P005,Baseball Cap,a301,2025-01-20
+S004,Houston Main,P006,Sunglasses,a305,2025-01-20
+S004,Houston Main,P007,Running Shorts,a305,2025-01-20
+S004,Houston Main,P008,Wool Scarf,a305,2025-01-20
+S004,Houston Main,P009,Formal Dress Shirt,a305,2025-01-20
+S004,Houston Main,P010,Casual Hoodie,a305,2025-01-20
+S004,Houston Main,P011,Cotton Socks,b567,2025-01-20
+S004,Houston Main,P012,Hiking Boots,b567,2025-01-20
+S004,Houston Main,P013,Sports Jersey,b567,2025-01-20
+S004,Houston Main,P014,Summer Sandals,b567,2025-01-20
+S004,Houston Main,P015,Waterproof Jacket,b567,2025-01-20
+S004,Houston Main,P016,Slippers,c556,2025-01-20
+S004,Houston Main,P017,Cargo Pants,c556,2025-01-20
+S004,Houston Main,P018,Beanie Hat,c556,2025-01-20
+S004,Houston Main,P019,Yoga Pants,c556,2025-01-20
+S004,Houston Main,P020,Swimsuit,c556,2025-01-20
+S005,Phoenix Downtown,P001,Classic T-Shirt,a301,2025-01-20
+S005,Phoenix Downtown,P002,Denim Jeans,a301,2025-01-20
+S005,Phoenix Downtown,P003,Leather Jacket,a301,2025-01-20
+S005,Phoenix Downtown,P004,Sneakers,a301,2025-01-20
+S005,Phoenix Downtown,P005,Baseball Cap,a301,2025-01-20
+S005,Phoenix Downtown,P006,Sunglasses,a305,2025-01-20
+S005,Phoenix Downtown,P007,Running Shorts,a305,2025-01-20
+S005,Phoenix Downtown,P008,Wool Scarf,a305,2025-01-20
+S005,Phoenix Downtown,P009,Formal Dress Shirt,a305,2025-01-20
+S005,Phoenix Downtown,P010,Casual Hoodie,a305,2025-01-20
+S005,Phoenix Downtown,P011,Cotton Socks,b567,2025-01-20
+S005,Phoenix Downtown,P012,Hiking Boots,b567,2025-01-20
+S005,Phoenix Downtown,P013,Sports Jersey,b567,2025-01-20
+S005,Phoenix Downtown,P014,Summer Sandals,b567,2025-01-20
+S005,Phoenix Downtown,P015,Waterproof Jacket,b567,2025-01-20
+S005,Phoenix Downtown,P016,Slippers,c556,2025-01-20
+S005,Phoenix Downtown,P017,Cargo Pants,c556,2025-01-20
+S005,Phoenix Downtown,P018,Beanie Hat,c556,2025-01-20
+S005,Phoenix Downtown,P019,Yoga Pants,c556,2025-01-20
+S005,Phoenix Downtown,P020,Swimsuit,c556,2025-01-20
+S006,Philadelphia East,P001,Classic T-Shirt,a301,2025-01-20
+S006,Philadelphia East,P002,Denim Jeans,a301,2025-01-20
+S006,Philadelphia East,P003,Leather Jacket,a301,2025-01-20
+S006,Philadelphia East,P004,Sneakers,a301,2025-01-20
+S006,Philadelphia East,P005,Baseball Cap,a301,2025-01-20
+S006,Philadelphia East,P006,Sunglasses,a305,2025-01-20
+S006,Philadelphia East,P007,Running Shorts,a305,2025-01-20
+S006,Philadelphia East,P008,Wool Scarf,a305,2025-01-20
+S006,Philadelphia East,P009,Formal Dress Shirt,a305,2025-01-20
+S006,Philadelphia East,P010,Casual Hoodie,a305,2025-01-20
+S006,Philadelphia East,P011,Cotton Socks,b567,2025-01-20
+S006,Philadelphia East,P012,Hiking Boots,b567,2025-01-20
+S006,Philadelphia East,P013,Sports Jersey,b567,2025-01-20
+S006,Philadelphia East,P014,Summer Sandals,b567,2025-01-20
+S006,Philadelphia East,P015,Waterproof Jacket,b567,2025-01-20
+S006,Philadelphia East,P016,Slippers,c556,2025-01-20
+S006,Philadelphia East,P017,Cargo Pants,c556,2025-01-20
+S006,Philadelphia East,P018,Beanie Hat,c556,2025-01-20
+S006,Philadelphia East,P019,Yoga Pants,c556,2025-01-20
+S006,Philadelphia East,P020,Swimsuit,c556,2025-01-20
+S007,San Antonio North,P001,Classic T-Shirt,a301,2025-01-20
+S007,San Antonio North,P002,Denim Jeans,a301,2025-01-20
+S007,San Antonio North,P003,Leather Jacket,a301,2025-01-20
+S007,San Antonio North,P004,Sneakers,a301,2025-01-20
+S007,San Antonio North,P005,Baseball Cap,a301,2025-01-20
+S007,San Antonio North,P006,Sunglasses,a305,2025-01-20
+S007,San Antonio North,P007,Running Shorts,a305,2025-01-20
+S007,San Antonio North,P008,Wool Scarf,a305,2025-01-20
+S007,San Antonio North,P009,Formal Dress Shirt,a305,2025-01-20
+S007,San Antonio North,P010,Casual Hoodie,a305,2025-01-20
+S007,San Antonio North,P011,Cotton Socks,b567,2025-01-20
+S007,San Antonio North,P012,Hiking Boots,b567,2025-01-20
+S007,San Antonio North,P013,Sports Jersey,b567,2025-01-20
+S007,San Antonio North,P014,Summer Sandals,b567,2025-01-20
+S007,San Antonio North,P015,Waterproof Jacket,b567,2025-01-20
+S007,San Antonio North,P016,Slippers,c556,2025-01-20
+S007,San Antonio North,P017,Cargo Pants,c556,2025-01-20
+S007,San Antonio North,P018,Beanie Hat,c556,2025-01-20
+S007,San Antonio North,P019,Yoga Pants,c556,2025-01-20
+S007,San Antonio North,P020,Swimsuit,c556,2025-01-20
+S008,Dallas Uptown,P001,Classic T-Shirt,a301,2025-01-20
+S008,Dallas Uptown,P002,Denim Jeans,a301,2025-01-20
+S008,Dallas Uptown,P003,Leather Jacket,a301,2025-01-20
+S008,Dallas Uptown,P004,Sneakers,a301,2025-01-20
+S008,Dallas Uptown,P005,Baseball Cap,a301,2025-01-20
+S008,Dallas Uptown,P006,Sunglasses,a305,2025-01-20
+S008,Dallas Uptown,P007,Running Shorts,a305,2025-01-20
+S008,Dallas Uptown,P008,Wool Scarf,a305,2025-01-20
+S008,Dallas Uptown,P009,Formal Dress Shirt,a305,2025-01-20
+S008,Dallas Uptown,P010,Casual Hoodie,a305,2025-01-20
+S008,Dallas Uptown,P011,Cotton Socks,b567,2025-01-20
+S008,Dallas Uptown,P012,Hiking Boots,b567,2025-01-20
+S008,Dallas Uptown,P013,Sports Jersey,b567,2025-01-20
+S008,Dallas Uptown,P014,Summer Sandals,b567,2025-01-20
+S008,Dallas Uptown,P015,Waterproof Jacket,b567,2025-01-20
+S008,Dallas Uptown,P016,Slippers,c556,2025-01-20
+S008,Dallas Uptown,P017,Cargo Pants,c556,2025-01-20
+S008,Dallas Uptown,P018,Beanie Hat,c556,2025-01-20
+S008,Dallas Uptown,P019,Yoga Pants,c556,2025-01-20
+S008,Dallas Uptown,P020,Swimsuit,c556,2025-01-20
+S009,San Diego Coastal,P001,Classic T-Shirt,a301,2025-01-20
+S009,San Diego Coastal,P002,Denim Jeans,a301,2025-01-20
+S009,San Diego Coastal,P003,Leather Jacket,a301,2025-01-20
+S009,San Diego Coastal,P004,Sneakers,a301,2025-01-20
+S009,San Diego Coastal,P005,Baseball Cap,a301,2025-01-20
+S009,San Diego Coastal,P006,Sunglasses,a305,2025-01-20
+S009,San Diego Coastal,P007,Running Shorts,a305,2025-01-20
+S009,San Diego Coastal,P008,Wool Scarf,a305,2025-01-20
+S009,San Diego Coastal,P009,Formal Dress Shirt,a305,2025-01-20
+S009,San Diego Coastal,P010,Casual Hoodie,a305,2025-01-20
+S009,San Diego Coastal,P011,Cotton Socks,b567,2025-01-20
+S009,San Diego Coastal,P012,Hiking Boots,b567,2025-01-20
+S009,San Diego Coastal,P013,Sports Jersey,b567,2025-01-20
+S009,San Diego Coastal,P014,Summer Sandals,b567,2025-01-20
+S009,San Diego Coastal,P015,Waterproof Jacket,b567,2025-01-20
+S009,San Diego Coastal,P016,Slippers,c556,2025-01-20
+S009,San Diego Coastal,P017,Cargo Pants,c556,2025-01-20
+S009,San Diego Coastal,P018,Beanie Hat,c556,2025-01-20
+S009,San Diego Coastal,P019,Yoga Pants,c556,2025-01-20
+S009,San Diego Coastal,P020,Swimsuit,c556,2025-01-20
+S010,Austin Central,P001,Classic T-Shirt,a301,2025-01-20
+S010,Austin Central,P002,Denim Jeans,a301,2025-01-20
+S010,Austin Central,P003,Leather Jacket,a301,2025-01-20
+S010,Austin Central,P004,Sneakers,a301,2025-01-20
+S010,Austin Central,P005,Baseball Cap,a301,2025-01-20
+S010,Austin Central,P006,Sunglasses,a305,2025-01-20
+S010,Austin Central,P007,Running Shorts,a305,2025-01-20
+S010,Austin Central,P008,Wool Scarf,a305,2025-01-20
+S010,Austin Central,P009,Formal Dress Shirt,a305,2025-01-20
+S010,Austin Central,P010,Casual Hoodie,a305,2025-01-20
+S010,Austin Central,P011,Cotton Socks,b567,2025-01-20
+S010,Austin Central,P012,Hiking Boots,b567,2025-01-20
+S010,Austin Central,P013,Sports Jersey,b567,2025-01-20
+S010,Austin Central,P014,Summer Sandals,b567,2025-01-20
+S010,Austin Central,P015,Waterproof Jacket,b567,2025-01-20
+S010,Austin Central,P016,Slippers,c556,2025-01-20
+S010,Austin Central,P017,Cargo Pants,c556,2025-01-20
+S010,Austin Central,P018,Beanie Hat,c556,2025-01-20
+S010,Austin Central,P019,Yoga Pants,c556,2025-01-20
+S010,Austin Central,P020,Swimsuit,c556,2025-01-20
